@@ -35,7 +35,7 @@ const projects = [
     desc: "Interfaz de login (HTML/CSS/JS) como módulo independiente.",
     tags: ["HTML", "CSS", "JS"],
     repo: "https://github.com/Menesesitas/Columbus_Login_Screen",
-    demo: "demo_login/login.html",
+    demo: "/Fernando-Meneses-Portafolio/demo_login/login.html",
     demoLabel: "Abrir Login"
   },
 
@@ -152,4 +152,5 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 });
+
 
